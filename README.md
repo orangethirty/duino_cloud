@@ -32,7 +32,7 @@ Connect an LED to pin13 on the arduino.  This is used to denote activity on the 
 
 Open your arduino IDE and load the sketch called:
  
-    duino_cloud.pde
+    serial.ino
     
 The file will be in the directory (folder) you downloaded this repo to. Check your Downloads directory just in case.
 
